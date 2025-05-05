@@ -4,13 +4,13 @@ This repository contains a dataset of COVID-19 statistics and a project to analy
 
 ## Project Overview
 
-The main objective of this project is to:
+The main objective of this project is to:-
 
 - Perform **Exploratory Data Analysis (EDA)** on a real-world COVID-19 dataset.
 - Validate **Benford’s Law** and **Zipf’s Law** using the COVID-19 data.
 - Provide insights into the COVID-19 statistics, including cases, deaths, and recoveries across different countries.
 
-### Key Tasks:
+### Key Tasks:-
 
 - **Data Cleaning**: Remove missing values, handle outliers, and ensure the dataset is ready for analysis.
 - **EDA**: Visualize trends, distributions, and relationships between various COVID-19 statistics.
@@ -19,7 +19,7 @@ The main objective of this project is to:
 
 ## Dataset
 
-The dataset used in this project contains COVID-19 statistics for various countries, including data on:
+The dataset used in this project contains COVID-19 statistics for various countries, including data on:-
 
 - Total cases
 - Total deaths
@@ -34,7 +34,7 @@ You can access and download the dataset from the following link:
 
 ## Requirements
 
-To run the project, you need to have the following Python libraries installed:
+To run the project, you need to have the following Python libraries installed:-
 
 - `pandas`: For data manipulation.
 - `numpy`: For numerical operations.
