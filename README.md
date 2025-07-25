@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis.
+# COVID-19 Data Analysis...
 
 This repository contains a dataset of COVID-19 statistics and a project to analyze it using Python and various data analysis techniques. The project validates **Benford’s Law** and **Zipf’s Law** on the COVID-19 data and performs exploratory data analysis (EDA) to extract meaningful insights.
 
